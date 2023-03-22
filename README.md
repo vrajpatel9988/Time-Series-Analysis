@@ -12,7 +12,7 @@ This Analysis adapts the flow of the Data Science Life Cycle.
 ## Initial Setup
 
 ```
-git clone https://github.com/San411/Time-Series-Analysis.git
+git clone https://github.com/vrajpatel9988/Time-Series-Analysis.git
 pip3 install -r requirements.txt
 ```
 ## Data Mining
