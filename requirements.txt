@@ -1,0 +1,11 @@
+numpy
+pandas
+pageviewapi
+scikit-learn
+matplotlib
+seaborn
+json
+re2
+statsmodels
+fbprophet
+
